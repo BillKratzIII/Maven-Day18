@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\admin\mavenWorkspace\projectten"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectnine"/>
+			<item value="C:\Users\admin\mavenWorkspace\projecteight"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectseven"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectsix"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectfive"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectfour"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectthree"/>
+			<item value="C:\Users\admin\mavenWorkspace\projecttwo"/>
+			<item value="C:\Users\admin\mavenWorkspace\projectone"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
